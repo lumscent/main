@@ -1,4 +1,3 @@
-# main
 # Product Design Knowledge
 
 Product Design Knowledge — это репозиторий продуктового и UX-контекста для команды продуктовых дизайнеров.
