@@ -61,7 +61,5 @@ Claude должен:
 
 ```text
 products/mylink/product-card.md
-products/mylink/key-flows.md
 products/mylink/ux-principles.md
-research/research-index.md
-templates/interface-task-template.md
+
